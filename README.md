@@ -1,6 +1,6 @@
 # 12-Employee-Tracker
 
-#Description
+## Description
 Tech Used
 `Inquirer`
 `mySQL`
@@ -8,11 +8,11 @@ Tech Used
 `JS`
 `NODEJS`
 
-#Installation
+## Installation
 1.Clone from Github
 2.Open project directory and install all the required dependencies.
 
-#Usage
+## Usage
 1. run the command npm init
 2. run npm i
 3. npm i inquirer
